@@ -1,0 +1,20 @@
+{
+  "hero": "https://i.ibb.co/NMpsLpK/STALKER-2-wp.jpg",
+  "factions": [
+    {
+      "title": "Duty",
+      "desc": "Militerisasi yang sangat barbar, berfokus pada mengendalikan Zona dengan kekuatan penuh.",
+      "url": "https://i.ibb.co/MCtfsnF/Duty.webp"
+    },
+    {
+      "title": "Freedom",
+      "desc": "Faksi yang memperjuangkan kebebasan mutlak di dalam Zona.",
+      "url": "https://i.ibb.co/B2rPz6D/Freedom.webp"
+    },
+    {
+      "title": "Loners",
+      "desc": "Stalker independen, bebas memilih jalan hidup dan nasibnya sendiri.",
+      "url": "https://i.ibb.co/YWw4rGc/Loners.webp"
+    }
+  ]
+}
